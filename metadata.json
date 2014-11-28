@@ -1,0 +1,14 @@
+{
+  "name": "kpacha-dynsatis",
+  "version": "0.0.1",
+  "author": "kpacha",
+  "license": "Licensed under (Apache 2.0)",
+  "summary": "A dynsatis server",
+  "source": "https://github.com/kpacha/puppet-dynsatis",
+  "dependencies": [
+    { "name": "puppetlabs/apache" },
+    { "name": "nodes/php" },
+    { "name": "puppetlabs/vcsrepo" },
+    { "name": "brainsware/composer" }
+  ]
+}
